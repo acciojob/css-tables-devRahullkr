@@ -5,8 +5,8 @@ table {
 
 th, td {
   border: 2px solid #cfcfcf;
-  border-radius: 5px;   /* ✅ test expects 5px */
-  padding: 5px;         /* ✅ safe to match test */
+  border-radius: 8px;   /* ✅ test expects 5px */
+  padding: 8px;         /* ✅ safe to match test */
   font-size: 16px;
 }
 
