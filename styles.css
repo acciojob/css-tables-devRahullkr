@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+body {
+        font-family: "Times New Roman", serif;
+    }
+
+    table {
+        border-collapse: separate;   /* allows spacing between cells */
+        border-spacing: 15px;         /* space between cells */
+    }
+
+    th, td {
+        border: 2px solid #cfcfcf;
+        border-radius: 12px;
+        padding: 18px 25px;
+        font-size: 28px;
+        text-align: left;
+        min-width: 220px;
+    }
+
+    th {
+        font-weight: bold;
+        background-color: #ffffff;
+    }
+
+    td {
+        background-color: #f7f7f7;
+    }
